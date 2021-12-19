@@ -1,0 +1,16 @@
+WriteUp
+
+1. The challenges we faced while making the app:
+a. We were stuck on the async issue for many hours. 
+b. Not undertand will about promise, so get confused about the .exec(), .then() and so on. Further study needed.
+
+2. Given more time, firstly, we would solve async issue more efficient. (but this would base on very good understand of some concept lol, I know async is very important for js)
+Second, a deeper look into session/cookie is meanfuling!
+More features: I would add all the extra credits features; more complex user authenticate would be implemented; better UI
+
+3. What assumptions did you make while working on this assignment?
+The job board is for the job seekers to seek for a job that fits for her/him, and also for companies to find potential candidates. 
+
+
+4. Hours spend: 
+50+ hr

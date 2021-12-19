@@ -1,0 +1,59 @@
+nav{
+    height: 50px;
+    border: 1px solid #dfdfdf;
+}
+
+.nav-header{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.div-header{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.div-svg{
+    height: 30px;
+    width: 30px;
+    padding: 0 20px;
+}
+.div-svg-search{
+    height: 35px;
+    width: 35px;
+    padding: 0 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+
+.button-header{
+    background-color:  #009693;
+    padding: 10px 25px;
+    color: white;  
+    cursor: pointer;
+    
+}
+
+
+.divider{
+    width: 5px;
+    display: inline-block;
+}
+
+#dropdown-basic{
+   border: none;
+    padding: 10px 25px;
+    background-color: white;
+    /* color: white;   */
+    cursor: pointer;
+
+}
+

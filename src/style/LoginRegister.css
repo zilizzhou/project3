@@ -1,0 +1,41 @@
+.form{
+    background: #FFFFFF;
+    width:25%;
+    margin: 100px auto 80px;
+    text-align:  center;
+    /* box-shadow:  0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); */
+    /* padding: 45; */
+  }
+  
+  .input {
+    font-family:'Courier New', Courier, monospace;
+    /* outline: 0; */
+    background: #f2f2f2;
+    border: 0;
+    font-size:  10;
+    padding: 14px;
+    margin: 8px 0;
+    width: 80%;
+    box-sizing: border-box;
+  }
+
+  #log-register-btn {font-family:'Courier New', Courier, monospace;
+    outline: 0;
+    background: #009688;
+    border: 0;
+    color: #FFFFFF;
+    font-size: 5;
+    padding: 14px 20px;
+    margin-top: 20px;
+    /* margin: 8px 0; */
+    margin-left: 40%;
+    width: 30%;
+    cursor: pointer;
+    display: block;
+  }
+
+  #msg{
+    font-family:'Courier New', Courier, monospace;
+    color: red;
+    font-size: 5;
+  }

@@ -1,0 +1,18 @@
+.header {
+    background-color:  #009688;
+     top: 50;
+     left: 0;
+     right: 0;
+     position: "absolute";
+     padding-top: 75;
+     padding-bottom: 75;
+   }
+ 
+   .header_h1 {
+     line-height:5.5em;
+     font-weight: 600;
+     font-size: 3em;
+     font-family:'Courier New', Courier, monospace;
+     color: #fff;
+     text-align: center;
+   }
