@@ -9,7 +9,7 @@ const cookieParser = require('cookie-parser');
 // session auth
 const session = require('express-session')
 const MongoStore = require('connect-mongo');
-mongodb+srv://ziliqianlin:qianlinzili@webdev.ypxxd.mongodb.net/ziliqianlin?retryWrites=true&w=majority
+// mongodb+srv://ziliqianlin:qianlinzili@webdev.ypxxd.mongodb.net/ziliqianlin?retryWrites=true&w=majority
 const mongoString = 'mongodb+srv://ziliqianlin:qianlinzili@webdev.ypxxd.mongodb.net/ziliqianlin?retryWrites=true&w=majority'
 mongoose.connect(mongoString, { useNewUrlParser: true })
 const mongoDB = mongoose.connection;
